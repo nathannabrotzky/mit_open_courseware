@@ -77,3 +77,4 @@ def compare_cow_transport_algorithms(filename:str) -> None:
 if __name__ == '__main__':
     compare_cow_transport_algorithms("6.0002\\ps1\\ps1_cow_data.txt")
     compare_cow_transport_algorithms("6.0002\\ps1\\ps1_cow_data_2.txt")
+
