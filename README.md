@@ -7,7 +7,8 @@ This is a repository dedicated towards projects completed during my time reading
 The file structure follows the same structure as the lectures, following their MIT Course #.
 
 Currently, here are the folders present:
-- 6.0001: Intro to Computer Science and Programming in Python
+- 6.100L (a.k.a. 6.100A, 6.0001): Introduction to CS and Programming Using Python
+https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/
 - 6.0002: Introduction to Computational Thinking and Data Science
 - 6.001: Structure and Interpretation of Computer Programs
 
