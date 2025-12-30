@@ -2,6 +2,7 @@
 From Reading 1, 2.1-2.2
 Heron's Method (or Babylonian Method)
 For approximating square roots
+Heron of Alexandria developed this algorithm in first century Egypt
 
 Example of a guess-and-check algorithm
 Make initial guess g
@@ -29,3 +30,4 @@ def heron_sqrt(x:float|int) -> float:
 
 number:int = 25
 print(heron_sqrt(number))
+
